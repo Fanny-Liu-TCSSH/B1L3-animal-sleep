@@ -15,7 +15,7 @@ Open `index.html` in a modern browser. No build step or server is needed. The si
 
 ## Wildlife Mystery Newsroom
 
-Reporter and Wildlife Expert share one screen in turns. The Reporter sees an animal illustration and embedded-question prompts; the Expert sees a secret fact card and passive-voice answer frames. A handoff screen appears at every role switch. After three questions and three answers, the Reporter can guess the animal and complete Language Detective. Twelve animal cards are included. Teacher Mode adds random animal and pair selection, a timer, reveals, dialogue reset, and sample dialogue. Student names typed for random pairing stay in the current browser tab and are not saved or uploaded.
+Reporter and Wildlife Expert share one screen in turns. The Reporter sees a blurred animal clue, six question prompts, and private note fields. The Expert sees the animal identity and key facts, with incomplete passive-voice starters in Training Mode. Challenge Mode shows only WH prompts and keywords. A handoff screen hides both roles' information during every switch. After five different questions and their answers, the Reporter can type a guess. The full illustration, name, facts, sample dialogue, and Language Detective appear only after a correct guess. Twelve animal cards are included. Teacher Mode provides random animal and pair selection, a timer, question-frame enlargement, and dialogue reset. Student names typed for random pairing stay in the current browser tab and are not saved or uploaded.
 
 ## GitHub Pages
 
