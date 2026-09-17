@@ -1,0 +1,16 @@
+.env
+.env.*
+node_modules/
+.DS_Store
+*.log
+tmp/
+temp/
+*.tmp
+*.temp
+.cache/
+.vite/
+dist/
+build/
+coverage/
+.idea/
+.vscode/
